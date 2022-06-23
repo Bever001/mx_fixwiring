@@ -4,8 +4,8 @@
 
 ## Installation
 1. Download this repo/codebase
-2. Extract and place `fixwiring` into your `resources` folder
-3. Add `fixwiring` to your `server.cfg` file
+2. Extract and place `mx_fixwiring` into your `resources` folder
+3. Add `mx_fixwiring` to your `server.cfg` file
 4. Restart your server
 
 
