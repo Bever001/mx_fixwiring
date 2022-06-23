@@ -28,7 +28,7 @@ scale = game size on screen in scale (Normally 1.0)
 sound_name = audio name + format (example 1.ogg)
 
 ## Example
-wiring = exports ["fixwiring"]:CircuitGame('50%', '50%', '1.0', '30vmin', '1.ogg')
+wiring = exports ["mx_fixwiring"]:CircuitGame('50%', '50%', '1.0', '30vmin', '1.ogg')
 
 ## Preview!
 [Capture](https://user-images.githubusercontent.com/65199757/175098674-c228e34d-4d46-4f2f-b386-243deef4245d.PNG)
